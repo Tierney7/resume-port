@@ -1,19 +1,19 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"https://tierney7.github.io/",
+    "name": "Matthew Tierney",
+    "role": "Full-Stack Web Developer",
+    "linkedinId":"https://www.linkedin.com/in/matthew-tierney-a94599242/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/matthew-tierney-a94599242/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/tierney7",
           "className":"fa fa-github"
         },
         {
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"Full-Stack web developer leveraging Art and Management background to build a new, creative, and more intuitive user experience on the web. Recently earned a certificate in full stack development from the University of Kansas, with newly developed skills in HTML, JavaScript, CSS, React.js, and responsive web design to name a few. Along with my studies though the university I have also earned several certificates of completion with Codecademy. Passionate about developing functional and cosmetically pleasing apps, with a focus on mobile design and development. With each project, my goal is to grab my audience's attention with stunning design for a unique user experience. I have applied aspects of several languages for my personal projects, both front and back-end. I’ve contributed to 3 separate group projects. Building everything from a local restaurant review website utilizing API’s, a recipe generator using Handlebars, and a social network designed to help coding students, and professionals stay in touch. I am excited to use these skills, along with my professional background as part of a creative, quality-driven team to build functional, and more unique experiences for internet users. ",
     "address":"India",
     "website":"https://rbhatia46.github.io",
     "education":[
